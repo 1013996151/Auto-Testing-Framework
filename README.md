@@ -4,7 +4,7 @@
 A collection of projects and scripts demonstrating my automation skills in game testing.
 
 ## Skills & Technologies
-- **Programming:** Airtest, Python, Allure
+- **Programming:** Airtest, Python
 - **Game Engines:** Unity, Unreal Engine
 - **CI/CD:** Jenkins, Jmeter
 - **Performance Testing:** PerfDog
@@ -14,12 +14,12 @@ A collection of projects and scripts demonstrating my automation skills in game 
 
 ### [Project 1: Mini Automated Testing Framework for Games]
 - **Description:** A lightweight automation framework built with Python and Airtest for testing games. It supports cross-platform execution (Android/iOS/PC) and generates detailed Allure reports.
-- **Tech Stack:** Python, Airtest, Allure
+- **Tech Stack:** Python, Airtest
 - **Status:** In Progress
 - **Goals:**
   - [ ] Implement basic test case structure
   - [ ] Integrate with Appium for device control
-  - [ ] Add Allure reporting
+  - [ ] Add Airtest reporting
   - [ ] Create a sample test for a game
 
 ### [Project 2: Performance Benchmarking Tool]
