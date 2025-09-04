@@ -1,4 +1,3 @@
-```markdown
 # Game Quality Engineering Showcase
 
 A collection of projects and scripts demonstrating my automation skills in game testing.
@@ -30,4 +29,3 @@ A collection of projects and scripts demonstrating my automation skills in game 
 I'm currently on a 6-month plan to transition from QA to QE. This repository documents my progress and projects.
 
 - **Current Focus:** Deepening Python and Airtest skills, building a robust automation framework.
-```
